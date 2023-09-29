@@ -1,0 +1,43 @@
+{
+  "name": "gosteye-cli",
+  "version": "1.0.0",
+  "description": "GOST'S EYE For System Hardware Information",
+  "main": "cli.js.",
+  "scripts": {
+    "start": "node gosteye.js"
+  },
+  "bin": {
+    "gosteye-cli": "cli.js"
+  },
+  "type": "module",
+  "keywords": [
+    "system information",
+    "hardware info",
+    "software info",
+    "CLI tool",
+    "system monitor",
+    "system stats",
+    "system diagnostics",
+    "hardware diagnostics",
+    "system analysis",
+    "hardware analysis",
+    "system utility",
+    "hardware utility",
+    "performance analysis",
+    "system data",
+    "hardware data",
+    "check"
+  ],
+  "author": "kpndevroot",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^11.0.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.1.1",
+    "nanospinner": "^1.1.0",
+    "node-emoji": "^1.11.0",
+    "readline-sync": "^1.4.10",
+    "systeminformation": "^5.12.6"
+  }
+}
