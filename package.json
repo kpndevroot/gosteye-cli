@@ -2,6 +2,7 @@
   "name": "gosteye-cli",
   "version": "1.0.0",
   "description": "GOST'S EYE For System Hardware Information",
+  "repository": "https://github.com/kpndevroot/gosteye-cli.git",
   "main": "cli.js.",
   "scripts": {
     "start": "node gosteye.js"
