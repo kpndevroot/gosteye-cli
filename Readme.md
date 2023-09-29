@@ -7,7 +7,7 @@ GOST'S EYE is a command-line interface (CLI) tool that provides detailed informa
 You can install GOST'S EYE globally using npm:
 
 ```bash
-    npm install -g gosteye
+   npm i -g gosteye-cli
 ```
 
 ## Usage
