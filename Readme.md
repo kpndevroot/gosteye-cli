@@ -16,7 +16,7 @@ $ gosteye-cli --help
 
 Usage: gosteye-cli [options]
 
- ![](https://github.com/kpndevroot/gosteye-cli/blob/main/demo.gif)
+ ![](https://github.com/kpndevroot/gosteye-cli/blob/main/demos.gif)
 
 GOST'S EYE - Command Line Interface
 
